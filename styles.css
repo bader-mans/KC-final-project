@@ -11557,3 +11557,9 @@ textarea.form-control-lg {
   width: 4rem;
   font-size: 2rem;
 }
+#container{
+  display flex:align-content: center;
+}
+#cont{
+  display flex: align-content: center;
+}
