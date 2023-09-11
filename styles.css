@@ -11558,8 +11558,10 @@ textarea.form-control-lg {
   font-size: 2rem;
 }
 #container{
-  display flex:justify-content:center;
+  display: flex;
+  justify-content:center;
 }
 #content{
-  display flex: justify-content: center;
+  display: flex;
+   justify-content: center;
 }
