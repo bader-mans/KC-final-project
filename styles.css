@@ -11560,8 +11560,5 @@ textarea.form-control-lg {
 #container{
   display: flex;
   justify-content:center;
-}
-#content{
-  display: flex;
-   justify-content: center;
+  margin: 50px;
 }
